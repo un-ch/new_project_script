@@ -2,6 +2,7 @@ Current script generates: <br>
 -initial directories structure; <br>
 -Makefile; <br>
 -gitignore file. <br>
+<br>
 We assume that default new project is written on C language; <br>
 <br>command:
 <br>

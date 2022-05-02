@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$1" = "" ]; then
-	echo "ERROR: no project name";
+	echo "error: no project name";
 	exit 1;
 fi
 
